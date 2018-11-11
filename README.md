@@ -1,0 +1,2 @@
+# hail-stone
+Collatz conjecture
